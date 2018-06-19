@@ -1,4 +1,4 @@
-function HappyHolidays() {
+function happyHolidays() {
   console.log("Happy, holidays!");
 }
 function happyHolidaysTo() {
@@ -8,5 +8,5 @@ function happyHolidaysTo() {
   return `${holiday}, ${name}!`;
 }
 function holidayCountdown () {
-  return 
+  return;
 }
